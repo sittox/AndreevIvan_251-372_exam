@@ -1,0 +1,2 @@
+https://hub.docker.com/repository/docker/sittox/qt_tcp_server
+docker pull sittox/qt_tcp_server:v1
